@@ -1,0 +1,20 @@
+﻿  Main.cpp
+D:\Main\C++\cube\cube\Main.cpp(210,21): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(181,9): warning C4101: y: неиспользованная локальная переменная
+D:\Main\C++\cube\cube\Main.cpp(181,6): warning C4101: x: неиспользованная локальная переменная
+D:\Main\C++\cube\cube\Main.cpp(332,10): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(369,27): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(370,25): warning C4244: =: преобразование "LONG" в "float", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(386,41): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(386,30): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(387,11): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(412,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(412,18): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+D:\Main\C++\cube\cube\Main.cpp(419,9): warning C4101: y: неиспользованная локальная переменная
+D:\Main\C++\cube\cube\Main.cpp(419,6): warning C4101: x: неиспользованная локальная переменная
+  Создание кода
+  2 of 1725 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    17 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  cube.vcxproj -> D:\Main\C++\cube\x64\Release\cube.exe
